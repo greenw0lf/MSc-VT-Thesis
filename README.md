@@ -4,6 +4,9 @@ This repository contains the scripts and CSV files that I used throughout my mas
 
 The experiments were conducted on [Mozilla's Common Voice project](https://commonvoice.mozilla.org/). The version used is 8.0, and the language is Frisian, marked as `fy-NL` in the metadata.
 
+## Link to thesis
+*Coming soon*
+
 ## Prerequisites
 - `Python 3.9.6` (this is the version used in experiments and guaranteed to work, other `3.9.x` versions may also work, as well as newer ones such as `3.10`, but I have not experimented with those)
 
