@@ -39,6 +39,8 @@ Then access the notebooks via the browser.
 
 ## Files
 - The `.ipynb` files that start with `XLS_R` are the training scripts I used throughout my research
+  - `XLS_R_fine_tune_train_from_hf.ipynb` corresponds to the script used for experiment 1
+  - `XLS_R_fine_tune_local_train.ipynb` corresponds to the scripts used for experiments 2-5
 - `evaluation.ipynb` is the file used for evaluating the models
 - `data_split_analysis.ipynb` is the file used for analyzing the datasets, as well as generating the splits for experiments 3, 4, and 5 (10 hours, 1 hour, and 10 minutes of training data respectively)
 - Inside `cv-corpus-8.0-2022-01-19/fy-NL` you can find the `.csv` splits of experiments 3, 4, and 5, along with statistics grouped by age and sex of the speaker (marked by `_stats.csv` at the end)
