@@ -31,7 +31,7 @@ If not, then you can first install Jupyter Notebook:
 ```
 pip install jupyter
 ```
-Then install the dependencies you need by running the first cell of the notebook you are editing.
+Then install only the dependencies you need by running the first cell of the notebook you are editing.
 
 ## Usage
 Simply run a Jupyter instance:
