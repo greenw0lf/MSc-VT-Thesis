@@ -60,7 +60,7 @@ Here is a list of the XLS-R models fine-tuned throughout my thesis that were upl
 - [Experiment 3](https://huggingface.co/greenw0lf/wav2vec2-large-xls-r-1b-frisian-cv-8-10h) (10 hours of data, training time: 7.5 hours)
 - [Experiment 4](https://huggingface.co/greenw0lf/wav2vec2-large-xls-r-1b-frisian-cv-8-1h) (1 hour of data, training time: 1.5 hours)
 - [Experiment 5](https://huggingface.co/greenw0lf/wav2vec2-large-xls-r-1b-frisian-cv-8-10m) (10 minutes of data, training time: 45 minutes)
-- [Experiment 6](https://huggingface.co/greenw0lf/wav2vec2-large-xls-r-30mm-frisian-cv-8) (41 hours of data, XLS-R with 300M parameters, training time: 16 hours)
+- [Experiment 6](https://huggingface.co/greenw0lf/wav2vec2-large-xls-r-300m-frisian-cv-8) (41 hours of data, XLS-R with 300M parameters, training time: 16 hours)
 - [Experiment 7](https://huggingface.co/greenw0lf/wav2vec2-large-xls-r-2b-frisian-cv-8) (41 hours of data, XLS-R with 2B parameters, training time: 1 day)
 
 ## Contact
